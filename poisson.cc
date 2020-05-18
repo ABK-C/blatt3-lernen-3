@@ -29,4 +29,7 @@ int main() {
   }
 
   fin.close();
+  fout.close();
+  fout2.close();  
+
 }
